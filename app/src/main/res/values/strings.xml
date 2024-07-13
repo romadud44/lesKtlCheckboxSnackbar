@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lesKtlCheckboxSnackbar</string>
+    <string name="in_hint_ET">Ввод данных</string>
+    <string name="out_hint_TV">Вывод данных</string>
+    <string name="text_save_BTN">Сохранить</string>
+    <string name="text_clear_BTN">Удалить</string>
+</resources>
